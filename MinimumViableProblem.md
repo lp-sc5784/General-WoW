@@ -12,11 +12,10 @@ I don’t know why these play out in different ways, but they seem to do so.  Pe
 
 Regardless, the minimum valuable problem seems to be something people are comfortable clarifying in conversation."
 
-*Personal note: it is worth me introducing the term within the capability needs / user stories work. 
-*
+**Personal notes** 
+It is worth introducing the term within the capability needs / user stories work.
 
 **Related concepts** 
-
 - Minimum Valuable Problem (MVP): strongest if intent is alignment around need, outcomes, and context.
 - Thinnest Viable Product: useful when discussing delivery scope and experimentation.
 - Thinnest Viable Architecture: useful when discussing technical strategy and avoiding premature design.
